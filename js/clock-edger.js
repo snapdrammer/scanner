@@ -92,7 +92,7 @@
     linkElement.appendChild(link);
 
     linkElement.title = "Link to MSc Disseration";
-    linkElement.href = "/thesis.pdf";
+    linkElement.href = "https://docs.google.com/viewer?url=raw.github.com/snapdrammer/scanner/main/thesis.pdf";
     
 
     
