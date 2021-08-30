@@ -93,8 +93,7 @@
 
     linkElement.title = "Link to MSc Disseration";
     linkElement.href = "/thesis.pdf";
-    linkElement.class = "image fit";
-    linkElement.src = "/thesis.pdf";
+    
 
     
 
