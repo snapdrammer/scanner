@@ -92,12 +92,12 @@
     linkElement.appendChild(link);
 
     linkElement.title = "Link to MSc Disseration";
-    linkElement.href = "../thesis.pdf";
+    linkElement.href = "/thesis.pdf";
     linkElement.class = "image fit";
-    linkElement.src = "../thesis.pdf";
+    linkElement.src = "/thesis.pdf";
 
     
-//     <a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
     const existingText = document.getElementById("introPara");
     existingText.textContent = "";
     title.appendChild(linkElement);
